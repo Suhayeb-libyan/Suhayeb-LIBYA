@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2023-06-23 04:22 PM
+4.2.0 (٠٥٩٢)
+bc88f32 (٢٠‏/٠٦‏/٢٠٢٢ ١١:٣٦:٥٨ ص)
+-->
+<scene title="فلتر حمودي " width="1080" height="1350" exportWidth="1080" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="2065" fps="60" modifiedTime="1687526567694" amver="592" ffver="105" am="com.alightcreative.motioo/4.2.0" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <shape id="6358482" label="VID_20230619_000206_106.mp4" startTime="0" endTime="2065" fillType="media" fillVideo="content://media/external/video/media/1917" inTime="4266" outTime="6299" s=".rect">
+    <transform>
+      <location value="269.427856,675.000061,0.000000" />
+      <scale value="1.664612,1.664612" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="720.000000,405.500000" />
+  </shape>
+  <shape id="6357900" label="مستطيل 1" startTime="500" endTime="2065" fillType="color" blending="subtract" s=".rect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+    </transform>
+    <fillColor value="#ffdff691" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float" value="-2.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.150000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="6357901" label="مستطيل مستدير الزوايا 1" startTime="500" endTime="2065" fillType="gradient" blending="overlay" s=".roundrect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+      <opacity value="0.833984" />
+    </transform>
+    <gradient type="linear" startColor="#ff000000" endColor="#ffffffff" start="0.319079,1.750992" end="0.329564,0.341812" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="6357902" label="مستطيل 2" startTime="500" endTime="2065" fillType="color" s=".rect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+    </transform>
+    <fillColor value="#ffe37bd8" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float" value="0.190000" />
+      <property name="gamma" type="float" value="0.855000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="-0.080000" />
+      <property name="vib" type="float" value="1.780000" />
+    </effect>
+    <effect id="com.alightcreative.effects.colortemperature" locallyApplied="true">
+      <property name="temperature" type="float" value="7.000000" />
+      <property name="strength" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.softglow" locallyApplied="true">
+      <property name="strength" type="float" value="0.070000" />
+      <property name="brightness" type="float" value="0.550000" />
+      <property name="contrast" type="float" value="1.000000" />
+      <property name="highlights" type="float" value="1.000000" />
+      <property name="color" type="color" value="#ffff5566" />
+      <property name="blend" type="float" value="0.250000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="outsideAlpha" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="6357903" label="مستطيل مستدير الزوايا 2" startTime="500" endTime="2065" fillType="gradient" blending="overlay" s=".roundrect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+      <opacity value="0.628906" />
+    </transform>
+    <fillColor value="#ffb2719c" />
+    <gradient type="linear" startColor="#ff000000" endColor="#ffffffff" start="0.762988,1.987057" end="0.762742,-0.222072" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="6357904" label="مستطيل 3" startTime="500" endTime="2065" fillType="color" s=".rect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+    </transform>
+    <fillColor value="#fff9dbee" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.colortemperature" hidden="true" locallyApplied="true">
+      <property name="temperature" type="float" value="5.970000" />
+      <property name="strength" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.colorize" locallyApplied="true">
+      <property name="tint" type="vec3" value="-105.255119,0.040720,0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="6357905" label="مستطيل مستدير الزوايا 3" startTime="500" endTime="2065" fillType="color" blending="overlay" s=".roundrect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+      <opacity value="0.550781" />
+    </transform>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="25.000000" />
+  </shape>
+  <shape id="6357906" label="مستطيل 4" startTime="500" endTime="2065" fillType="color" s=".rect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+    </transform>
+    <fillColor value="#ff5093f5" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.colortemperature" locallyApplied="true">
+      <property name="temperature" type="float" value="8.809999" />
+      <property name="strength" type="float" value="0.086000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="6357918" label="مستطيل 6" startTime="500" endTime="2065" fillType="color" s=".rect">
+    <transform>
+      <location value="540.000000,675.000000,0.000000" />
+      <scale value="6.750000,6.750000" />
+    </transform>
+    <fillColor value="#ffe144f6" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="0.350000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.sharpen" locallyApplied="true">
+      <property name="strength" type="float" value="0.550000" />
+      <property name="radius" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.unsharpmask" locallyApplied="true">
+      <property name="strength" type="float" value="0.250000" />
+      <property name="amount" type="float" value="0.500000" />
+      <property name="threshold" type="float" value="0.500000" />
+      <property name="showMask" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.highlightshadow" locallyApplied="true">
+      <property name="highlights" type="float" value="1.270000" />
+      <property name="shadows" type="float" value="0.880000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+</scene>
